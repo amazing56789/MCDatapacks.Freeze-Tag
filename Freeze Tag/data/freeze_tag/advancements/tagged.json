@@ -1,0 +1,20 @@
+{
+    "criteria" : {
+        "got_hit" : {
+            "trigger" : "entity_hurt_player",
+            "conditions" : {
+                "player" : {
+                    "team" : "runner"
+                },
+                "damage" : {
+                    "source_entity" : {
+                        "team" : "tagger"
+                    }
+                }
+            }
+        }
+    },
+    "rewards" : {
+        "function" : "freeze_tag:tagged"
+    }
+}
