@@ -1,5 +1,5 @@
-#type: advancement-reward
-#@in spawnkill/advancements/die.json
+#type: advancement-reward // & runner
+#@in spawnkill/advancements/die.json & spawnkill:kill
 
 scoreboard players reset @s kills
 scoreboard players reset @s deaths
