@@ -1,0 +1,18 @@
+{
+	"pack" : {
+		"pack_format" : 8,
+		"description" : {
+			{
+				"text" : "Kills players who might be spawn killing\n"
+			},
+			{
+				"text" : "By ",
+				"italic" : true
+			},
+			{
+				"text" : "amazing56789",
+				"color" : "dark_red",
+				"italic" : true
+			}
+		}
+	}
