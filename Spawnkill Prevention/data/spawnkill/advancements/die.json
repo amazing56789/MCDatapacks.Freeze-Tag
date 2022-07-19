@@ -16,5 +16,8 @@
 				]
 			}
 		}
+	},
+	"rewards" : {
+		"function" : "spawnkill:reset_scores"
 	}
 }
