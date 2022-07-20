@@ -1,0 +1,26 @@
+{
+    "criteria" : {
+        "got_hit" : {
+            "trigger" : "entity_hurt_player",
+            "conditions" : {
+                "player" : {
+                    "team" : "runner",
+                    "type_specific" : {
+                        "type" : "player",
+                        "advancements" : {
+                            "freeze_tag:frozen" : true
+                        }
+                    }
+                },
+                "damage" : {
+                    "source_entity" : {
+                        "team" : "runner"
+                    }
+                }
+            }
+        }
+    },
+    "rewards" : {
+        "function" : "freeze_tag:unfrozen"
+    }
+}
