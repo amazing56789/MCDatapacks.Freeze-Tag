@@ -21,6 +21,6 @@
         }
     },
     "rewards" : {
-        "function" : "freeze_tag:unfrozen"
+        "function" : "freeze_tag:rewards/unfrozen"
     }
 }
