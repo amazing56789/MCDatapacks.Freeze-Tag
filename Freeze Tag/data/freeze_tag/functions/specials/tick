@@ -1,0 +1,5 @@
+#@type: loop
+#	@@loop: tick
+#@in: minecraft/tags/functions/tick.json
+
+execute at @a[ tag = frozen ] as @e[ type = minecraft:marker, tag = positionlock ] if score @p tag.ID = @s tag.ID positioned as @s run tp @p ~ ~ ~
