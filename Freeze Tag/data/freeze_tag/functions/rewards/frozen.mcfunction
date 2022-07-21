@@ -1,4 +1,5 @@
 #@type: advancement-reward & runner
+#	@@revoke: false
 #@in: advancement -> freeze_tag:frozen
 
 summon minecraft:marker ~ ~ ~ { Tags: [ "positionlock" ] }
