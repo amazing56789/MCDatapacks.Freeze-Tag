@@ -3,7 +3,7 @@
 		"pack_format" : 8,
 		"description" : {
 			{
-				"text" : "Kills players who might be spawn killing\n"
+				"text" : "Adds freeze tag (run /function freeze_tag:help)\n"
 			},
 			{
 				"text" : "By ",
