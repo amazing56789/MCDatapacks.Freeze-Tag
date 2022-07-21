@@ -1,0 +1,1 @@
+tellraw @s [{ "text" : "\t\tFreeze Tag:\n", "color" : "dark_green" }, { "text" : "Add whoever you want to the runner's team with /team join runner @a[ ... ]\nAdd whoever you want to the taggers's team with /team join tagger @a[ ... ]", "color" : "yellow" }]
