@@ -1,5 +1,5 @@
-# Kill-Killers
-Kills people who killed other people 3 times. For u/slimesarecool on reddit.
+# Freeze Tag
+A simple freezetag datapack for u/Hajilol on reddit
 
 You, or anyone, is permitted to remix, adapt, publish this work provided that:
 1. They give credit to the creator (me, amazing56789) and do not claim to have created this work, only any additions they may have added
